@@ -1,0 +1,12 @@
+{
+  "name": "simple-blog",
+  "version": "1.0.0",
+  "description": "One-file blog on pure Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
