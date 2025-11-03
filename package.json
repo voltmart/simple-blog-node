@@ -1,7 +1,7 @@
 {
   "name": "simple-blog",
   "version": "1.0.0",
-  "description": "One-file blog on pure Node.js",
+  "description": "Pure Node.js blog",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
